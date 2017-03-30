@@ -1,0 +1,57 @@
+body 
+{
+    direction:rtl;
+    background-color:lightgray;
+    border:solid;
+    border-color:coral;
+}
+
+h1 {
+    font-size: 40pt;
+    text-align: center;
+    color: lightblue;
+    background-color: darkslategray;
+ 
+
+}
+h21 {
+       
+    color:darkblue;
+    text-align:right;
+    padding:10PX;
+   
+}
+h2:first-letter{
+
+    font-size:28pt;
+    color:darkred;
+
+}
+
+p{
+
+text-align:right;
+padding:10PX;
+text-align:right;
+
+}
+
+
+#image1:hover {
+    
+  background-color: rgba(7, 6, 5, 5);
+   color: rgba(7, 6, 5, 5);
+}
+   
+
+
+
+  
+
+
+
+
+
+
+
+
